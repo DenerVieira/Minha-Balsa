@@ -59,7 +59,7 @@ planejamento dos horários.
 
 ### 📹 Câmeras dos terminais
 
-`<img src="screenshots/cameras.png" width="330" alt="Tela de câmeras do Minha Balsa"> 
+<img src="screenshots/cameras.png" width="330" alt="Tela de câmeras do Minha Balsa"> 
 A seção de câmeras permite acompanhar visualmente as condições dos
 terminais, com indicação de transmissão ao vivo e opção de ampliar as
 imagens.
