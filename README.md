@@ -52,7 +52,7 @@ fila, condições do canal, horários e imagens das câmeras.
 
 ### ⛴️ Tela de Travessia
 
-`<img src="screenshots/travessia.png" width="330" alt="Tela principal do Minha Balsa">
+<img src="screenshots/travessia.png" width="330" alt="Tela principal do Minha Balsa">
 A tela principal concentra as informações mais importantes: status da
 operação, atualização, tempo real das filas, condições do canal e
 planejamento dos horários.
