@@ -52,26 +52,14 @@ fila, condições do canal, horários e imagens das câmeras.
 
 ### ⛴️ Tela de Travessia
 
-```{=html}
-<p align="center">
-```
-`<img src="screenshots/travessia.png" width="330" alt="Tela principal do Minha Balsa">`{=html}
-```{=html}
-</p>
-```
+`<img src="screenshots/travessia.png" width="330" alt="Tela principal do Minha Balsa">
 A tela principal concentra as informações mais importantes: status da
 operação, atualização, tempo real das filas, condições do canal e
 planejamento dos horários.
 
 ### 📹 Câmeras dos terminais
 
-```{=html}
-<p align="center">
-```
-`<img src="screenshots/cameras.png" width="330" alt="Tela de câmeras do Minha Balsa">`{=html}
-```{=html}
-</p>
-```
+`<img src="screenshots/cameras.png" width="330" alt="Tela de câmeras do Minha Balsa"> 
 A seção de câmeras permite acompanhar visualmente as condições dos
 terminais, com indicação de transmissão ao vivo e opção de ampliar as
 imagens.
@@ -114,31 +102,11 @@ criando uma interface tecnológica sem comprometer a legibilidade.
 
 ------------------------------------------------------------------------
 
-## 🏗️ Estrutura conceitual
-
-``` text
-                    ┌─────────────────────┐
-                    │     MINHA BALSA     │
-                    └──────────┬──────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-             ▼                 ▼                 ▼
-        ⛴️ Travessia       📹 Câmeras        🔔 Alertas
-             │                 │
-       ┌─────┼─────┐      ┌────┴────┐
-       ▼     ▼     ▼      ▼         ▼
-     Filas  Vento Horários São      Ilhabela
-                              Sebastião
-```
-
-------------------------------------------------------------------------
-
 ## 🚀 Objetivo
 
 O **Minha Balsa** nasceu com o objetivo de tornar mais simples o acesso
 às informações necessárias para quem utiliza ou acompanha a travessia
-**São Sebastião ↔ Ilhabela**.
+**do Litoral Norte e Sul**.
 
 Em vez de consultar diferentes fontes, o usuário encontra as principais
 informações em uma única experiência mobile.
@@ -198,20 +166,9 @@ travessia**.
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Desenvolvedor
-
-**Dener Vieira**
-
-Projeto **Minha Balsa** --- acompanhamento da travessia **São Sebastião
-↔ Ilhabela**.
-
-------------------------------------------------------------------------
-
-::: {align="center"}
 ### ⛴️ Minha Balsa
 
 **Planeje sua travessia com mais informação.**
 
 ⭐ Se você gostou do projeto, considere deixar uma estrela no
 repositório.
-:::
